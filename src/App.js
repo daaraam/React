@@ -1,8 +1,8 @@
 import React from "react";
-import Counter from "./Counter";
+import Login from "./Login";
 
 function App() {
-  return <Counter />;
+  return <Login />;
 }
 
 export default App;
